@@ -1,5 +1,5 @@
 # user_collecting
-![after login](demo.png)
+![after login](demo.png)  
 This is a flask web module of collecting users. The funcitons are that:  
 the users are collected through email addresses they input;  
 the email addresses are input into a waiting list database with a time sequence;  
